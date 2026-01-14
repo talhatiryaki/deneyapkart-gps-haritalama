@@ -62,6 +62,6 @@ Bu proje, **Deneyapkart 1A v2** geliştirme kartı ve **Deneyap GPS & GLONASS** 
 
 ---
 
-## 👤 Geliştiriciler
+##  Geliştiriciler
 * **Talha Yasin Tiryaki** - *Yönetim Bilişim Sistemleri*
 * **Tamer Acar** - *Yönetim Bilişim Sistemleri*
