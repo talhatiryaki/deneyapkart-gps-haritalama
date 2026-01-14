@@ -60,8 +60,6 @@ Bu proje, **Deneyapkart 1A v2** geliştirme kartı ve **Deneyap GPS & GLONASS** 
 >
 > 🛰️ **Hassasiyet:** Hassas konum verisi elde etmek için en az 4 uyduya bağlanılması önerilir.
 
----
-
-##  Geliştiriciler
+##GELİŞTİRİCİLER
 * **Talha Yasin Tiryaki** - *Yönetim Bilişim Sistemleri*
 * **Tamer Acar** - *Yönetim Bilişim Sistemleri*
